@@ -24,3 +24,5 @@ We would like to expand upon our idea to provide real-time insights for more exe
 
 ## Video
 https://www.youtube.com/watch?v=r-J3rA2L1tw
+
+Contributors: Vishal Kotha, Arnav Jain, Sameer Gabbita, Sauman Das
