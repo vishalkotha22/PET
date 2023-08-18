@@ -21,3 +21,6 @@ We learned a lot about applications of pose-estimation models and using the Medi
 
 ## What's next for PET
 We would like to expand upon our idea to provide real-time insights for more exercises and improve upon the teacher feedback functionality feature.
+
+## Video
+https://www.youtube.com/watch?v=r-J3rA2L1tw
